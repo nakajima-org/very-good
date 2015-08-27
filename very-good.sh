@@ -1,2 +1,2 @@
-echo "Very good"
+echo "Very, good"
 exit 0
