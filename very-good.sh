@@ -1,4 +1,4 @@
 echo "Very good!"
 echo "Ok"
 echo "Great?"
-exit 1
+exit 0
